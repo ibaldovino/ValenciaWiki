@@ -20,7 +20,7 @@ Te invitamos a explorar nuestra wiki y aprovechar al máximo la información que
 
 **Número de Identificación de Extranjero (NIE):** Guía paso a paso sobre cómo obtener el NIE, incluyendo la solicitud, documentación necesaria y proceso de cita.
 
-**Empadronamiento: **Información sobre el proceso de empadronamiento, beneficios de estar empadronado y requisitos para realizar el trámite.
+**Empadronamiento:** Información sobre el proceso de empadronamiento, beneficios de estar empadronado y requisitos para realizar el trámite.
 
 **Sistema de salud:** Descripción del sistema de salud en España, cómo acceder a la atención médica, tarjeta sanitaria y seguros de salud.
 
